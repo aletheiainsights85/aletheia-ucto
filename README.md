@@ -1,2 +1,0 @@
-# aletheia-ucto
-Účtovníctvo aplikácia
